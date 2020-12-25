@@ -1,3 +1,7 @@
+
+// This piece of code reads a print a character,string and a line 
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
