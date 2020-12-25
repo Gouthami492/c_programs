@@ -1,3 +1,7 @@
+//*Your program is to use the brute-force approach in order to find the answer to Life, the Universe, and Everything.
+//More precisely, rewrite small numbers from input to output. Stop processing input after reading in the number 42.
+//    All numbers at input are integers of one or two digits.
+// the elements will also be sorted (which is not a part of question
 #include<stdio.h>
 void selection(int *,int);
 void swap(int *,int,int);
