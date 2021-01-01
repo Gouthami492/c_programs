@@ -1,7 +1,11 @@
+//Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+
+void swap(int*,int,int);
+void sort012(int*,int);
 int main()
 {
 int a[100],i,n;
-for(i=0li<n;i++)
+for(i=0;i<n;i++)
 scanf("%d",&a[i])
 sort012(a,n);
 for(i=0;i<n;i++0
